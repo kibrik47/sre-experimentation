@@ -1,8 +1,7 @@
-# HelfyHomeAssignment
-Test Assignment – Junior SRE Developer
+# SRE Experimentation
 
 **Overview**
-Build a complete full-stack application with authentication, database integration, and monitoring
+Built a complete full-stack application with authentication, database integration, and monitoring
 capabilities.
 
 
